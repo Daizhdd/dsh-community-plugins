@@ -1475,5 +1475,16 @@
     "repo": "https://github.com/mengge237/dsh-model-priority",
     "category": "tools",
     "subcategory": "model"
+  },
+  {
+    "id": "dsh-550c-boot",
+    "name": "550C 开机动画",
+    "nameEn": "550C Boot Splash",
+    "author": "yannicksong0106",
+    "description": "给 DSH 加一段 550C 全屏开机片头：简易档 4 秒 logo 书写、完整档 16 秒覆写流程，点击画面或按 Esc 可跳过，四套磷光配色；首帧由宿主半边在文档解析阶段注入，DSH 自带的 Loading 卡片不会露脸，桌面窗口的原生标题栏按钮也会被收编成终端配色。",
+    "descriptionEn": "Adds a full-screen 550C boot intro to DSH: a 4-second simple cut (logo drawn stroke by stroke) and a 16-second full rewrite sequence, skippable by click or Esc, with four phosphor palettes. The first frame is injected by the host half while the document is still parsing, so DSH's own loading card never appears, and the desktop window's native caption buttons are repainted to match the terminal.",
+    "repo": "https://github.com/yannicksong0106/dsh-550c-boot",
+    "category": "ui",
+    "subcategory": "render"
   }
 ]
