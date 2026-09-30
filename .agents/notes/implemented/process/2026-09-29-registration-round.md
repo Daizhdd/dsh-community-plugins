@@ -70,3 +70,6 @@ in-app update path is refused on the older host.
   computation. #7 waits on an upstream `dsh.bundle` declaration.
 - The two pull requests stay open with their blockers recorded, so the next
   round reads the state rather than re-deriving it.
+- Both states moved on 2026-09-30 (see that round's note): #8's ask was met and
+  the hold moved to the family boot-splash marker, and #7 gained a second
+  blocker in how the plugin resolves the host's mcp client.
