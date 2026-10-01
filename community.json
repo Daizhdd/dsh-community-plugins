@@ -1487,5 +1487,17 @@
     "npm": "dsh-550c-boot",
     "category": "ui",
     "subcategory": "render"
+  },
+  {
+    "id": "dsh-widgets",
+    "name": "组件栏",
+    "nameEn": "Widget Rail",
+    "author": "Physicolor",
+    "description": "会话右侧的多列组件栏：55 个内置单元覆盖会话（轮次·步数、上下文水位、token 与缓存命中率、首 token 延迟、工具调用、后台任务、子代理）、额度（OpenCode Go 与 Command Code 的滚动/周/月窗口、余额、月末外推与今日推荐）、机器（CPU / GPU / 内存 / 磁盘 / 网络 / 供电，含迷你折线与环形图，另有本地服务与代理出口看板）与 GitHub（待审队列、提交、Issue）。每个单元独立安装，2×2 或 2×4，悬浮时沿组件栏形成连续放大波；设置页可安装、排序、改尺寸与逐实例配置。",
+    "descriptionEn": "A multi-column widget rail on the right of the session: 55 built-in units for the session (turns and steps, context level, tokens and cache-hit rate, first-token latency, tool calls, background jobs, subagents), quota (OpenCode Go and Command Code rolling / weekly / monthly windows, balances, month-end projection and today's budget), the machine (CPU, GPU, memory, disk, network and power with sparklines and rings, plus a local-service and proxy-egress board) and GitHub (review queue, pushes, issues). Every unit installs on its own at 2x2 or 2x4, a continuous magnification wave follows the pointer along the rail, and the settings page installs, reorders, resizes and configures each instance.",
+    "repo": "https://github.com/Physicolor/dsh-widgets",
+    "npm": "dsh-widgets",
+    "category": "ui",
+    "subcategory": "panel"
   }
 ]
