@@ -1,8 +1,21 @@
-# @linxin666/dsh-client-ui-community-plugins
+# dsh-community-plugins · Community Plugin Index & Ecosystem Catalog for DeepSeek Harness (DSH)
 
 English | [中文](README.zh.md)
 
-The community plugin index data source of the dsh web ecosystem: `community.json` is the single source of the Workshop store plugin catalog and the dsh-market.com plugin manifest (`manifest/plugins.json`). Entries only carry links and metadata pointing at each third-party plugin author's own repository — this repository never vendors their code.
+<p align="center">
+  <img src="https://img.shields.io/npm/v/@linxin666/dsh-client-ui-community-plugins?style=flat-square" alt="Version">
+  &nbsp;
+  <img src="https://img.shields.io/badge/DSH-%3E%3D0.2.0--rc.2-4c6ef5?style=flat-square&amp;labelColor=454a54" alt="DSH">
+  &nbsp;
+  <img src="https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square" alt="License">
+</p>
+
+<p align="center">
+  <strong>Community Plugin Index & Manifest Source for DeepSeek Harness (DSH)</strong><br>
+  <em>Community Ecosystem Extensions · Official Workshop Manifest · Curated Plugin Catalog · Third-Party Tools</em>
+</p>
+
+The authoritative community plugin index data source of the DeepSeek Harness (DSH) Web GUI and desktop client ecosystem: `community.json` is the single source for the DSH Workshop store plugin catalog and the dsh-market.com plugin manifest (`manifest/plugins.json`). It equips developers and users with vetted third-party ecosystem plugins covering external AI model integrations (ChatGPT subscriptions), long-term memory spaces (Mnemon), key-free web search, and developer tooling. Entries only carry curated links and metadata pointing to third-party plugin repositories without vendoring external code.
 
 ## What it does
 
