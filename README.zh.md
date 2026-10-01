@@ -1,8 +1,21 @@
-# @linxin666/dsh-client-ui-community-plugins
+# dsh-community-plugins · DeepSeek Harness (DSH) 社区插件索引与生态扩展目录
 
 [English](README.md) | 中文
 
-dsh web 生态的社区插件索引数据源：`community.json` 是创意工坊商店插件目录与 dsh-market.com 插件清单（`manifest/plugins.json`）的唯一来源。条目只收录第三方插件作者的仓库链接与元数据——本仓库从不搬运它们的代码。
+<p align="center">
+  <img src="https://img.shields.io/npm/v/@linxin666/dsh-client-ui-community-plugins?style=flat-square" alt="Version">
+  &nbsp;
+  <img src="https://img.shields.io/badge/DSH-%3E%3D0.2.0--rc.2-4c6ef5?style=flat-square&amp;labelColor=454a54" alt="DSH">
+  &nbsp;
+  <img src="https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square" alt="License">
+</p>
+
+<p align="center">
+  <strong>DeepSeek Harness（DSH）官方 Web GUI 与创意工坊社区插件索引数据源</strong><br>
+  <em>社区生态扩展 · 官方创意工坊数据源 · 认证插件目录 · 第三方工具集成 · dsh-market.com</em>
+</p>
+
+DeepSeek Harness (DSH) Web GUI 与官方桌面客户端社区插件索引数据源：`community.json` 是创意工坊商店插件目录与 dsh-market.com 插件清单（`manifest/plugins.json`）的唯一来源。为广大开发者与 AI 智能体用户提供经社区审核的第三方生态扩展，涵盖外部 AI 模型接入（ChatGPT 订阅）、长期持久记忆库（Mnemon）、免 Key 网络搜索与开发运维工具。条目只收录第三方插件作者的规范仓库链接与元数据——本仓库从不搬运第三方源码，保障生态开放与去中心化。
 
 ## 功能
 
